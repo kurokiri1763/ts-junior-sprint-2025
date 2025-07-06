@@ -8,7 +8,7 @@ type User = {
 
 // 関数に型注釈をつける
 function greetUser(user: User): string {
-    return `Hello! ${user.name}!(${user.age}歳)`
+    return `Hello! ${user.name}!(${user.age})`
 }
 
 // 実行用データ
