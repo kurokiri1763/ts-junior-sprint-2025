@@ -1,4 +1,5 @@
 "use strict";
+// 1日目
 //基本の型
 let userName = "Alice";
 let Age = 32;

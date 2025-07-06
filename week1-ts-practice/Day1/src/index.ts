@@ -1,3 +1,4 @@
+// 1日目
 //基本の型
 let userName: string ="Alice";
 let Age: number = 32;
@@ -17,3 +18,4 @@ enum Role {
 }
 let userRole: Role = Role.Admin;
 console.log(userName, Age, isAdmin, scores, userInfo, userRole);
+
